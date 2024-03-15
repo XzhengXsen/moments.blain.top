@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://test.com/</loc>
+    <lastmod>2021-08-04T23:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://test.com/moments/test/</loc>
+    <lastmod>2021-08-04T23:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://test.com/moments/</loc>
+    <lastmod>2021-08-04T23:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://test.com/tags/</loc>
+    <lastmod>2021-08-04T23:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://test.com/tags/test/</loc>
+    <lastmod>2021-08-04T23:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://test.com/tags/%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2021-08-04T23:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://test.com/categories/</loc>
+  </url>
+</urlset>
