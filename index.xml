@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://xzhengxsen.github.io/</link>
+    <link>https://moments.blain.top/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Wed, 04 Aug 2021 23:57:46 +0800</lastBuildDate>
-    <atom:link href="https://xzhengxsen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moments.blain.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://xzhengxsen.github.io/moments/test/</link>
+      <link>https://moments.blain.top/moments/test/</link>
       <pubDate>Wed, 04 Aug 2021 23:57:46 +0800</pubDate>
-      <guid>https://xzhengxsen.github.io/moments/test/</guid>
+      <guid>https://moments.blain.top/moments/test/</guid>
       <description>你可以为每条moment附带图片。&#xA;比如说，好看的风景：</description>
     </item>
   </channel>
