@@ -6,8 +6,15 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 17 Mar 2024 14:38:14 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:01:08 +0800</lastBuildDate>
     <atom:link href="https://moments.blain.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日常</title>
+      <link>https://moments.blain.top/tags/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Mon, 25 Mar 2024 15:01:08 +0800</pubDate>
+      <guid>https://moments.blain.top/tags/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
     <item>
       <title>摘录</title>
       <link>https://moments.blain.top/tags/%E6%91%98%E5%BD%95/</link>
@@ -27,13 +34,6 @@
       <link>https://moments.blain.top/tags/%E4%BA%BA%E7%94%9F/</link>
       <pubDate>Sun, 17 Mar 2024 14:06:24 +0800</pubDate>
       <guid>https://moments.blain.top/tags/%E4%BA%BA%E7%94%9F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>日常</title>
-      <link>https://moments.blain.top/tags/%E6%97%A5%E5%B8%B8/</link>
-      <pubDate>Fri, 15 Mar 2024 15:51:07 +0800</pubDate>
-      <guid>https://moments.blain.top/tags/%E6%97%A5%E5%B8%B8/</guid>
       <description></description>
     </item>
   </channel>
